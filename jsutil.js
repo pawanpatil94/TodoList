@@ -10,6 +10,7 @@
         var li = document.createElement('li');
         var checkbox = document.createElement('input');
         var label = document.createElement('span');
+		var bold = document.createElement('B');
         
         checkbox.type = 'checkbox';
 //		alert('ad');
