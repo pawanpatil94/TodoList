@@ -1,2 +1,2 @@
 # TodoList
-A TodoList in javascript
+A TodoList built with javascript. Check out the link to use the app. 
